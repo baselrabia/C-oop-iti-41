@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607956694 source:d:\cs\c iti 41\oop\day6\rectangle\main.cpp
+	<iostream>
+	<graphics.h>
+
